@@ -1,0 +1,25 @@
+{
+  "v": 1,
+  "product": "monolith",
+  "channel": "closed-beta",
+  "policy_version": 1,
+  "updated_at": "2026-06-06T00:00:00Z",
+  "min_allowed_version": "0.1.0",
+  "recommended_version": "0.23.0",
+  "latest_version": "0.23.0",
+  "blocked_versions": [],
+  "blocked_build_groups": [],
+  "force_expire_before": null,
+  "license_policy": {
+    "max_offline_days": 7,
+    "max_license_days": 31,
+    "require_terms_acceptance": true,
+    "allow_readonly_after_expired": true,
+    "allow_export_after_expired": true
+  },
+  "legal": {
+    "required_terms_version": "beta_terms_2026_06_06",
+    "required_privacy_version": "beta_privacy_2026_06_06"
+  },
+  "message": null
+}

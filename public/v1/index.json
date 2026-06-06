@@ -1,0 +1,34 @@
+{
+  "v": 1,
+  "product": "monolith",
+  "channel": "closed-beta",
+  "policy_version": 1,
+  "updated_at": "2026-06-06T00:00:00Z",
+  "files": {
+    "policy": {
+      "url": "public/v1/policy.json",
+      "sig": "public/v1/policy.sig",
+      "sha256": ""
+    },
+    "revoked_licenses": {
+      "url": "public/v1/revoked/licenses.json",
+      "sig": "public/v1/revoked/licenses.sig",
+      "sha256": ""
+    },
+    "updates": {
+      "url": "public/v1/updates/latest.json",
+      "sig": "public/v1/updates/latest.sig",
+      "sha256": ""
+    },
+    "terms": {
+      "url": "public/v1/legal/terms.json",
+      "sig": "public/v1/legal/terms.sig",
+      "sha256": ""
+    },
+    "notice": {
+      "url": "public/v1/notices/notice.json",
+      "sig": "public/v1/notices/notice.sig",
+      "sha256": ""
+    }
+  }
+}

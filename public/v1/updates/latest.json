@@ -1,0 +1,23 @@
+{
+  "v": 1,
+  "product": "monolith",
+  "channel": "closed-beta",
+  "latest_version": "0.23.0",
+  "release_tag": "v0.23.0-beta",
+  "released_at": "2026-06-06T00:00:00Z",
+  "min_supported_version": "0.1.0",
+  "force_update_below": null,
+  "download_page": "https://github.com/houbb/monolith/releases",
+  "assets": {
+    "windows_x64": {
+      "file": "Monolith_0.23.0_x64-setup.exe",
+      "sha256": "",
+      "size": 0
+    }
+  },
+  "notes": {
+    "title": "Monolith 0.23.0 Beta",
+    "summary": "Initial beta release.",
+    "severity": "info"
+  }
+}
