@@ -1,34 +1,26 @@
 {
   "v": 1,
-  "product": "monolith",
-  "channel": "closed-beta",
-  "policy_version": 1,
-  "updated_at": "2026-06-06T00:00:00Z",
+  "updated_at": "2026-06-06T04:59:31.205Z",
   "files": {
-    "policy": {
-      "url": "public/v1/policy.json",
-      "sig": "public/v1/policy.sig",
-      "sha256": ""
+    "v1/legal/terms.json": {
+      "sha256": "37b5f68f957a8052f872a6c198f28e3a9daee022556192c94ea7a92c4bcfadf8",
+      "sig": "v1/legal/terms.sig"
     },
-    "revoked_licenses": {
-      "url": "public/v1/revoked/licenses.json",
-      "sig": "public/v1/revoked/licenses.sig",
-      "sha256": ""
+    "v1/notices/notice.json": {
+      "sha256": "7fe98722be950ef120f17ced956095fd623f675ce5ed97ecedf9eb8db4a34817",
+      "sig": "v1/notices/notice.sig"
     },
-    "updates": {
-      "url": "public/v1/updates/latest.json",
-      "sig": "public/v1/updates/latest.sig",
-      "sha256": ""
+    "v1/policy.json": {
+      "sha256": "45f64e2aa8be192ea5f8c05a92829b2c3234d2c969245e8f8d271461b5899c74",
+      "sig": "v1/policy.sig"
     },
-    "terms": {
-      "url": "public/v1/legal/terms.json",
-      "sig": "public/v1/legal/terms.sig",
-      "sha256": ""
+    "v1/revoked/licenses.json": {
+      "sha256": "92ef4a2ea8fbb3c693da514e016c9bff5d320124e01950018875bf4ee5199977",
+      "sig": "v1/revoked/licenses.sig"
     },
-    "notice": {
-      "url": "public/v1/notices/notice.json",
-      "sig": "public/v1/notices/notice.sig",
-      "sha256": ""
+    "v1/updates/latest.json": {
+      "sha256": "f8b3ae70edbd14b3c33054b060acc797d1ee39cf4d1effeb320a2b9b4787ea9e",
+      "sig": "v1/updates/latest.sig"
     }
   }
 }
